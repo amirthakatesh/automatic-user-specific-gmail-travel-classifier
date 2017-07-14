@@ -7,3 +7,5 @@ An access script in Python to seek permission into user's gmail account and clas
 5)gmail(email,query) logs into the user's account and sends each keyword in query to the function move_to_travel().<br />
 6)move_to_travel(katesh,query) is used to find the mails related to the query and move it to the label "Travel".<br />
 ![ScreenShot](https://raw.github.com/amirthakatesh/automatic-user-specific-gmail-travel-classifier/master/gmail1.png)
+![ScreenShot](https://raw.github.com/amirthakatesh/automatic-user-specific-gmail-travel-classifier/master/gma3.png)
+![ScreenShot](https://raw.github.com/amirthakatesh/automatic-user-specific-gmail-travel-classifier/master/gma4.png)
