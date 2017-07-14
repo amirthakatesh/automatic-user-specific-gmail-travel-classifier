@@ -6,4 +6,4 @@ An access script in Python to seek permission into user's gmail account and clas
 4)travel_data() is used to add keywords to the existing list to classify it in even better way.<br />
 5)gmail(email,query) logs into the user's account and sends each keyword in query to the function move_to_travel().<br />
 6)move_to_travel(katesh,query) is used to find the mails related to the query and move it to the label "Travel".<br />
-![Alt text](/home/amirthakatesh/Pictures/gmail1.png?raw=true "")
+
